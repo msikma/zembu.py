@@ -29,6 +29,8 @@ optional arguments:
 ````
 Only `--dict` is a required argument.
 
+The part of the script that actually runs the Whois check is rate limited
+to one check per second, as per the Whois rules.
 
 
 Unix dictionary
