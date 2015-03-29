@@ -7,6 +7,7 @@ words are available as domain names.
 
 Usage
 -----
+
 Type `./zembu.py --help` for the following prompt:
 
 ````
@@ -29,7 +30,14 @@ optional arguments:
 Only `--dict` is a required argument.
 
 
+
 Unix dictionary
 ---------------
 If you're on a Unix-like system, you can use the internal dictionary. It's
 usually found at `/usr/share/dict/words` or `/usr/dict/words`.
+
+
+License
+-------
+
+MIT license.
