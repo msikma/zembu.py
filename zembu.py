@@ -201,20 +201,20 @@ for availability as domain names'
         action='store',
         default='com',
         help='Top-level domain to check, e.g. "com,net" to check "<word>.com" '
-             'and "<word>.net".'
+             'and "<word>.net". (Default: "com")'
     )
     argparser.add_argument(
         '--verbose',
         action='store_true',
         default=False,
-        help='Outputs all Whois commands we run.'
+        help='Outputs all Whois commands we run. (Default: False)'
     )
     argparser.add_argument(
         '--log-file',
         action='store',
         default='zembu_output.log',
-        help='Saves a list of all available domain names to a text file '
-             '(default: zembu_output.log).'
+        help='Saves a list of all available domain names to a text file. '
+             '(Default: "zembu_output.log")'
     )
     args = argparser.parse_args()
     argdict = args.__dict__
