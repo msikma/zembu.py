@@ -176,8 +176,8 @@ def main():
     Checks the user's command line input and runs the main program.
     '''
     argparser = argparse.ArgumentParser(add_help=False)
-    argparser.description = 'zembu.py: checks all entries in a dictionary \
-for availability as domain names'
+    argparser.description = 'zembu.py: checks all entries in a list of words \
+for domain availability'
     argparser.add_argument(
         '-h', '--help',
         action='help',
