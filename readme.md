@@ -33,10 +33,19 @@ The part of the script that actually runs the Whois check is rate limited
 to one check per second, as per the Whois rules.
 
 
-Unix dictionary
----------------
+Word lists
+----------
+
+### Unix dictionary
+
 If you're on a Unix-like system, you can use the internal dictionary. It's
 usually found at `/usr/share/dict/words` (e.g. OSX) or `/usr/dict/words`.
+
+
+### Frequent words list
+
+We've included a file called `10kfreq.txt` which contains the 10000 most
+frequent words in the English language.
 
 
 License
