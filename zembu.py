@@ -90,6 +90,7 @@ def get_dict_words(dict_file):
     with open(dict_file) as file:
         words = [word.strip().lower() for word in file.readlines()]
 
+    words = filter(None, words)  # remove empty strings
     words = list(set(words))  # remove duplicates
     words.sort()
     return words
