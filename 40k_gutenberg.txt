@@ -12949,7 +12949,7 @@ threadbare
 authorize
 hurtful
 lighthouse
--a
+a
 corsica
 eulogy
 jot
@@ -18145,7 +18145,7 @@ innings
 pathology
 referee
 viewpoint
--on
+on
 democritus
 titter
 adduce
@@ -18419,7 +18419,7 @@ crucify
 prosperously
 troubadour
 zephyr
--oid
+oid
 bric-a-brac
 itu
 rotating
@@ -19291,7 +19291,7 @@ tardily
 agnostic
 distil
 reynard
--s
+s
 bern
 betaken
 disconcert
@@ -19317,7 +19317,7 @@ eighty-seven
 ion
 spoor
 vituperation
--logy
+logy
 gesticulation
 minutiae
 time-honoured
@@ -19483,7 +19483,7 @@ overlap
 primate
 sesame
 twenty-eighth
--form
+form
 blazon
 bunsen
 burdett
@@ -21455,7 +21455,7 @@ melancholic
 obese
 shoo
 unmoving
--ferous
+ferous
 chinatown
 cockle
 complainant
@@ -21769,7 +21769,7 @@ sheathe
 stacey
 unorthodox
 weaning
--fy
+fy
 airman
 coot
 fatalist
@@ -22522,7 +22522,7 @@ palliative
 refill
 u-boat
 unwisdom
--um
+um
 bicameral
 bogota
 dissenter
@@ -22930,7 +22930,7 @@ magneto
 roxy
 therapy
 vicariously
--graphy
+graphy
 anarchic
 easternmost
 eugenics
@@ -23745,7 +23745,7 @@ reprehend
 saleable
 tortoiseshell
 vituperative
--en
+en
 benevento
 coercing
 edh
@@ -23760,7 +23760,7 @@ solvency
 valetudinarian
 yokel
 zoroastrian
--scope
+scope
 asteroids
 casein
 cruciform
@@ -23861,7 +23861,7 @@ scanner
 teleological
 vocalist
 vulva
--graph
+graph
 alphabetic
 brainy
 broadcasting
@@ -24443,7 +24443,7 @@ sycophancy
 tc
 vince
 withe
--lite
+lite
 caviar
 cyclic
 disallow
@@ -24596,7 +24596,7 @@ turkmenistan
 ulna
 unspoilt
 urdu
--o
+o
 aberrant
 craziness
 crossroad
@@ -24970,7 +24970,7 @@ toffee
 vladivostok
 westmorland
 whatd
--itis
+itis
 aleutian
 andorra
 cicada
@@ -25047,7 +25047,7 @@ sat
 scorpio
 stodgy
 wiseacre
--er
+er
 absolving
 aerodrome
 bonbon
@@ -25324,7 +25324,7 @@ undulate
 vertiginous
 vole
 wickerwork
--ing
+ing
 accumulator
 acushla
 apulian
@@ -25680,7 +25680,7 @@ seagoing
 snowshoe
 twiddle
 whisht
--z
+z
 blackpool
 cantharides
 copperplate
@@ -25878,7 +25878,7 @@ straightaway
 synoptic
 upas
 woad
--shaped
+shaped
 aniseed
 appetizer
 assignee
@@ -26400,7 +26400,7 @@ wholehearted
 yuletide
 zany
 zug
--or
+or
 abjection
 anguilla
 backup
@@ -26889,7 +26889,7 @@ pubes
 sunfish
 tautological
 tonto
--an
+an
 accentual
 aeon
 auster
@@ -27014,7 +27014,7 @@ swagman
 tympanic
 vitalize
 waterline
--ling
+ling
 acidulous
 admin
 airtight
@@ -27172,7 +27172,7 @@ sysop
 upraise
 yarrow
 yowl
--ly
+ly
 accelerates
 ahmedabad
 aust
@@ -27464,8 +27464,8 @@ umlaut
 veterinarian
 washroom
 workbench
--like
--y
+like
+y
 accusatory
 addenda
 ambidextrous
@@ -27508,7 +27508,7 @@ transire
 unfrozen
 vixenish
 watermark
--head
+head
 all-encompassing
 anachronistic
 backhand
@@ -27859,7 +27859,7 @@ transiency
 triptych
 tyrannicide
 zed
--all
+all
 acceptability
 adverts
 aesthete
@@ -28084,7 +28084,7 @@ randomly
 smalls
 unicode
 whelk
--st
+st
 accompted
 agio
 alcmene
@@ -28128,7 +28128,7 @@ undelivered
 unsuitability
 wash-leather
 windbag
--ic
+ic
 afp
 ahti
 anglomania
@@ -28415,7 +28415,7 @@ unenthusiastic
 veneto
 wolffian
 yorks
--some
+some
 abashment
 acct
 aconitine
@@ -28519,7 +28519,7 @@ underskirt
 vestigial
 whoremonger
 yogh
--ed
+ed
 absentmindedness
 academics
 amnion
@@ -28711,7 +28711,7 @@ upload
 venusian
 wastepaper
 zouave
--blast
+blast
 armoire
 averseness
 batrachian
@@ -28803,7 +28803,7 @@ vanward
 vig
 vocalic
 waw
--ish
+ish
 agouti
 apodosis
 aris
@@ -28949,7 +28949,7 @@ ulnar
 undershot
 ursine
 whoremaster
--let
+let
 achievable
 antenatal
 beep
@@ -29087,7 +29087,7 @@ syrupy
 totaled
 utopia
 zygomatic
--ol
+ol
 apical
 atomizer
 blas
@@ -29388,7 +29388,7 @@ vulnerary
 vum
 wasteland
 whippersnapper
--ward
+ward
 a3
 accidentals
 acicular
@@ -29543,7 +29543,7 @@ tenter
 undercover
 volte-face
 waxworks
--gram
+gram
 abrahamic
 agendum
 albite
@@ -29816,7 +29816,7 @@ thriller
 uranian
 veiny
 villian
--oma
+oma
 abrogates
 adductor
 adjuvant
@@ -29976,7 +29976,7 @@ typesetter
 udp
 whish
 zig
--ard
+ard
 airt
 akkub
 areolar
@@ -30235,7 +30235,7 @@ thrawn
 tnt
 tympani
 yegg
--less
+less
 adipocere
 adumbrations
 ahi
@@ -30301,7 +30301,7 @@ unselfconscious
 vivification
 wallin
 zinnia
--scopy
+scopy
 abdomens
 abiogenesis
 abstruseness
@@ -30379,7 +30379,7 @@ unstrap
 warehouseman
 wicket-keeper
 windrow
--est
+est
 abominates
 abruzzo
 adumbrate
@@ -30693,8 +30693,8 @@ tungstate
 udal
 wahhabis
 winkle
--ium
--ness
+ium
+ness
 abrading
 acupuncture
 all-weather
@@ -30758,7 +30758,7 @@ windpipes
 xebec
 yoni
 zwinglian
--looking
+looking
 abuser
 activation
 agnate
@@ -30837,7 +30837,7 @@ vau
 weaponry
 wrasse
 yttrium
--ist
+ist
 abit
 achiever
 anaheim
@@ -30920,7 +30920,7 @@ uniformitarian
 univocal
 viral
 worrisome
--hood
+hood
 academia
 acrylic
 allemande
@@ -31004,7 +31004,7 @@ videotape
 xe
 yemeni
 zealotry
--dom
+dom
 aberdonian
 acclimate
 accomodate
@@ -31080,7 +31080,7 @@ valedictorian
 verser
 zine
 2125
--ster
+ster
 abbasid
 aitch
 alewife
@@ -31250,7 +31250,7 @@ usaf
 var
 verboten
 wok
--ship
+ship
 ablation
 acharnement
 activists
@@ -31425,7 +31425,7 @@ vaseline
 watermill
 yellowhammer
 zoster
--th
+th
 abraid
 accordions
 accountableness
@@ -31519,7 +31519,7 @@ uhf
 vojvodina
 zestful
 zoom
--ous
+ous
 abstractedness
 acold
 agger
@@ -31611,7 +31611,7 @@ xylene
 y-
 yahoo
 sblood
--ant
+ant
 abjects
 abrasive
 acoustical
@@ -31721,7 +31721,7 @@ whys
 wickiup
 zag
 zoning
--cracy
+cracy
 abled
 above-cited
 allodium
@@ -31952,7 +31952,7 @@ vee
 vigilante
 xylophone
 zoologically
--plasty
+plasty
 a4
 aaa
 abscissas
@@ -32163,8 +32163,8 @@ walloper
 woodwind
 zalika
 zap
--archy
--ful
+archy
+ful
 10-4
 abye
 accredits
@@ -32404,7 +32404,7 @@ xanthin
 year-round
 zaza
 zirconia
--al
+al
 absconder
 abstemiously
 adp
@@ -32529,8 +32529,8 @@ word-for-word
 woulda
 xenophobia
 zoomed
--ar
--handed
+ar
+handed
 abominating
 acquiescently
 adat
@@ -32669,7 +32669,7 @@ urinated
 yardmaster
 yep
 yill
--ism
+ism
 1x
 abetment
 absentia
@@ -33093,7 +33093,7 @@ vesica
 vientiane
 weathervane
 wonky
--backed
+backed
 abderite
 abeyant
 abhorrently
@@ -33237,7 +33237,7 @@ wagga
 were-
 zirconium
 zonal
--able
+able
 abruption
 acclimatizing
 accorder
@@ -33417,8 +33417,8 @@ wyo
 xr
 zebu
 zeroth
--age
--ess
+age
+ess
 aap
 abnegate
 abstergent
@@ -33754,8 +33754,8 @@ vermiculate
 wildcard
 zimbabwean
 zombie
--ize
--ment
+ize
+ment
 a-side
 aasvogel
 aborting
@@ -33927,8 +33927,8 @@ widget
 xiphoid
 zombis
 2186
--ac
--morphous
+ac
+morphous
 abdominous
 abecedarian
 abidance
@@ -34124,9 +34124,9 @@ wristwatch
 xanthic
 yttria
 zippy
--ad
--ance
--arch
+ad
+ance
+arch
 abend
 abnegated
 aboveground
@@ -34528,7 +34528,7 @@ xylography
 yorker
 zeugma
 zittern
--tion
+tion
 abbreviator
 abomasum
 abusiveness
@@ -34741,10 +34741,10 @@ yay
 youngling
 zarzuela
 zigamorph
--derm
--ie
--leafed
--ware
+derm
+ie
+leafed
+ware
 aberrational
 ablegate
 abscind
@@ -34972,7 +34972,7 @@ wildebeest
 yin-yang
 zestfully
 zoospore
--ide
+ide
 3b
 abab
 abas
@@ -35225,7 +35225,7 @@ whyd
 wildebeests
 xenophobic
 yy
--free
+free
 a-bomb
 aaronic
 abandonedly
@@ -35447,7 +35447,7 @@ zibeline
 zoe
 zoomorphic
 zyme
--ate
+ate
 abdal
 abdications
 abduce
@@ -35725,13 +35725,13 @@ yack
 yt
 yup
 zd
--bearing
--ee
--ible
--id
--ite
--naphthol
--ose
+bearing
+ee
+ible
+id
+ite
+naphthol
+ose
 2000s
 abay
 abo
@@ -36306,8 +36306,8 @@ ytterbium
 zak
 zamzummim
 ze
--ation
--ric
+ation
+ric
 a5
 a8
 abdicant
