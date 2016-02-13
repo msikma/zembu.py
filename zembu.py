@@ -115,6 +115,9 @@ def check_domain(domain, verbose=False):
         print('whois "%s"' % (domain))
 
     output = get_exec_unsafe('whois "%s"' % (domain))
+    
+    if output is False:
+      return False
 
     if 'no match for' in output.lower():
         return True
