@@ -14,7 +14,7 @@ import os
 
 # Get current console size.
 ROWS, COLS = [int(n) for n in os.popen('stty size', 'r').read().split()]
-VERSION = '0.1'
+VERSION = '0.2'
 
 
 def rate_limited(max_per_second):
@@ -87,21 +87,34 @@ def get_dict_words(dict_file):
     Extracts the individual words from a dictionary file, with whitespace
     stripped, and returns them as a list.
     '''
+    word_info = []
+    
     with open(dict_file) as file:
         words = [word.strip().lower() for word in file.readlines()]
-
-    words = filter(None, words)  # remove empty strings
-    words = list(set(words))  # remove duplicates
-    words.sort()
-    return words
+        
+    # If we've got semicolons, we're saving extra information
+    # about the words.
+    if ';' in words[0]:
+        new_words = []
+        for word in words:
+            slices = word.split(';')
+            new_words.append(slices[0])
+            word_info.append(slices[1:])
+        words = new_words
+    else:
+        words = filter(None, words)  # remove empty strings
+        words = list(set(words))  # remove duplicates
+        words.sort()
+    
+    return [words, word_info]
 
 
 @rate_limited(1)
 def check_domain(domain, verbose=False):
     if verbose:
-        print('whois -Q "%s"' % (domain))
+        print('whois "%s"' % (domain))
 
-    output = get_exec_unsafe('whois -Q "%s"' % (domain))
+    output = get_exec_unsafe('whois "%s"' % (domain))
 
     if 'no match for' in output.lower():
         return True
@@ -109,7 +122,7 @@ def check_domain(domain, verbose=False):
         return False
 
 
-def check_domains(words, tlds=['com'], log='zembu_output.log', verbose=False):
+def check_domains(words, word_info, tlds=['com'], log='zembu_output.log', verbose=False):
     '''
     Iterates through a provided list of words and checks their availability
     as domain names with the given tld.
@@ -121,12 +134,14 @@ def check_domains(words, tlds=['com'], log='zembu_output.log', verbose=False):
 
     available = []
     n = 0
-    for word in words:
+    for n in range(len(words)):
+        word = words[n]
+        info = word_info[n]
         for tld in tlds:
             domain = (word + '.' + tld).lower()
             is_available = check_domain(domain, verbose)
             if is_available:
-                available.append(domain)
+                available.append(domain + ' (' + (', '.join(info)) + ')')
 
             n += 1
             if not verbose:
@@ -219,7 +234,7 @@ for domain availability'
     )
     args = argparser.parse_args()
     argdict = args.__dict__
-    words = get_dict_words(args.dict)
+    words, word_info = get_dict_words(args.dict)
     tlds = args.tlds.split(',')
     log = args.log_file
 
@@ -233,7 +248,7 @@ for domain availability'
     # Go through the entire words list and check the domains, or until
     # interrupted by the escape sequence.
     try:
-        amount, available = check_domains(words, tlds, log, args.verbose)
+        amount, available = check_domains(words, word_info, tlds, log, args.verbose)
         end = time.time()
         duration = int(end - start)
         log_output(VERSION, amount, available, words, duration, argdict, log)
